@@ -1,6 +1,6 @@
 # Robert_Thompson_ITAI_1378_Portfolio
 
-**From fixing comms under fire to training machines to see.**
+**I went from running communications in combat under fire to training machines to see.**
 
 I am a former Airborne Infantryman with a background in tactical communications and multiple combat deployments. I know firsthand that on the battlefield, situational awareness is everything. If you can't see the threat, you can't stop it.
 
@@ -8,7 +8,7 @@ I am pivoting that experience into **AI for Cybersecurity and Autonomous Systems
 
 This repository documents my progress through **Computer Vision (ITAI 1378)**, moving from basic pixel manipulation to building Convolutional Neural Networks (CNNs).
 
-**I uploaded my code files to repo then use Word for grammar, font, faster editing, etc. I copy and paste from Word into repo without having to worry about misspelling or missing grammatical errors since GitHub does not highlight them.**
+**I uploaded my code files to Word for grammar, font and simply more efficient editing, then paste into my repo without having to worry about grammatical errors. I always have one or... ∞ **
 
 ---
 
@@ -16,4 +16,4 @@ This repository documents my progress through **Computer Vision (ITAI 1378)**, m
 * **Projects 1-4:** Foundations of Image Processing & OpenCV.
 * **Project 5:** Custom CNN Classification (Chihuahua vs. Muffin).
 * **Project 6:** Advanced Architectures & Transfer Learning.
-* **Project 7:** Final Capstone (Integration of CV concepts).
+* **Project 7:** Final Project (Integration of CV concepts in Theft Prevention Software group project).
