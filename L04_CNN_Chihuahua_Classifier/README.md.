@@ -1,0 +1,18 @@
+# CNN Fundamentals: Chihuahua vs. Muffin
+
+## Problem Statement
+A binary classification challenge distinguishing between Chihuahuas and Muffins, which share similar visual textures and colors.
+
+## Approach
+Built a custom Convolutional Neural Network (CNN) using PyTorch. Experimented with Learning Rates (0.5 vs 0.01) and optimizer selection (AdamW vs SGD).
+
+## Key Findings
+- **Overfitting:** High training accuracy vs low validation accuracy indicated the model was memorizing rather than learning.
+- **Architecture:** "More isn't always better." Adding too many layers introduced noise.
+
+## Dataset
+Used the [Patitimoner/workshop-chihuahua-vs-muffin](https://github.com/patitimoner/workshop-chihuahua-vs-muffin) dataset.
+
+## Technologies Used
+- PyTorch
+- Torchvision
