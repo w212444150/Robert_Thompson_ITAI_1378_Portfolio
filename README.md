@@ -6,7 +6,9 @@ I am a former Airborne Infantryman with a background in tactical communications 
 
 I am pivoting that experience into **AI for Cybersecurity and Autonomous Systems**. I am currently focused on Computer Vision (CV) applications—specifically how we can use software like **Anduril’s Lattice** to turn dumb sensors into smart assets. My goal is to build systems that process visual data faster than a human operator ever could, whether for drone defense or threat detection.
 
-This repository documents my progression through **Computer Vision (ITAI 1378)**, moving from basic pixel manipulation to building Convolutional Neural Networks (CNNs).
+This repository documents my progress through **Computer Vision (ITAI 1378)**, moving from basic pixel manipulation to building Convolutional Neural Networks (CNNs).
+
+**I uploaded my code files to repo then use Word for grammar, font, faster editing, etc. I copy and paste from Word into repo without having to worry about misspelling or missing grammatical errors since GitHub does not highlight them.**
 
 ---
 
