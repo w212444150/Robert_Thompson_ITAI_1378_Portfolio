@@ -1,7 +1,7 @@
 # Image Processing Fundamentals
 
 ## Problem Statement
-Understanding how computers "see" images by manipulating raw pixel matrices (0-255) without using high-level AI wrappers.
+Learned that computers "see" images by manipulating raw pixel matrices (0-255) without using high-level AI wrappers, software on top of existing AI models like Claude, ChatGPT, etc., that tailors the functions depending on specific use cases.
 
 ## Approach
 Implemented 15+ operations using OpenCV and NumPy, including channel splitting, grayscale conversion, and contrast adjustment.
